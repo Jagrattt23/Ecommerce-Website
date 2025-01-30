@@ -13,8 +13,11 @@ A fully functional **E-Commerce platform** built using **Django**, with features
 - Login
 - Logout
 ✅ Functional NavBar
+
 ✅ Check Different Categories of Product
+
 ✅ Shopping cart functionality   
+
 ✅ Admin dashboard  
 
 

@@ -24,9 +24,14 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-m-zwk-pmzqs2&fri61r2)nb$o+-k!n61)ej(9qcsyrz)d8o43%"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+
+
+ALLOWED_HOSTS = [
+    "BuyBuddy.onrender.com",  # Your live website
+    "127.0.0.1",  # Allows local testing
+]
 
 
 # Application definition

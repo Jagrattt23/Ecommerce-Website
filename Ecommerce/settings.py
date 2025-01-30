@@ -29,7 +29,7 @@ DEBUG = False
 
 
 ALLOWED_HOSTS = [
-    "BuyBuddy.onrender.com",  # Your live website
+    "ecommerce-website-wxvk.onrender.com",  # Your live website
     "127.0.0.1",  # Allows local testing
 ]
 

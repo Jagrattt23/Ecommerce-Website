@@ -28,10 +28,7 @@ DEBUG = False
 
 
 
-ALLOWED_HOSTS = [
-    "ecommerce-website-wxvk.onrender.com",  # Your live website
-    "127.0.0.1",  # Allows local testing
-]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
